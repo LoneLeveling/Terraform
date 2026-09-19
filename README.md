@@ -1,4 +1,4 @@
-# _/\_ Welcome to my repository, built with ❤️ using Terraform.
+# Welcome to my repository, built with ❤️ using Terraform.
 
 This repository contains my hands-on Terraform projects and experiments as I
 learn Infrastructure as Code (IaC) and cloud infrastructure automation.
@@ -18,6 +18,8 @@ learn Infrastructure as Code (IaC) and cloud infrastructure automation.
 - Linux
 - Git & GitHub
 
-<img width="618" height="512" alt="image" src="https://github.com/user-attachments/assets/beedb203-2b9a-4af0-bdb3-f8d9ee6fd3f6" />
+<img width="1296" height="707" alt="image" src="https://github.com/user-attachments/assets/d52fdaa6-2957-48c3-a404-6c507d30f76a" />
+
+
 
 Reach out to me via Discord/X, and don't forget to follow me here on GitHub if this helps you :)
